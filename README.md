@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rodgersajb
 - 👀 I’m interested in: coding some cool and useful projects 💻, cooking (with a lot of spice 🌶🌶), being the best father 👨🧒👶 (oh, and husband 💑), golf ⛳ and figuring out where to travel next - 🗺🏖✈
 - 🌱 I’m currently learning Typescript and some more advanced features for React.js
+- 💪 I'm currently working on a movie finder app using React and Firebase https://github.com/rodgersajb/project-icd
 - 💞️ I’m looking to collaborate on some wonderful Front End Projects while learning a ton along the way
 - 📫 How to reach me ...
 -   Twitter: www.twitter.com/rodgersajb
